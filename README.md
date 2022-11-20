@@ -1,4 +1,4 @@
-# piniain10min
+# Learn Pinia Vue 3 State Management Lib in less than 10 Min
 
 This template should help get you started developing with Vue 3 in Vite.
 
